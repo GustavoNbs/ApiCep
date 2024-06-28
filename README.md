@@ -18,7 +18,9 @@ Este é um site simples que permite aos usuários inserir um CEP e obter informa
 
 1. **Clone o Repositório:**
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```bash
+git clone https://github.com/GustavoNbs/ApiCep.git
+```
 
 2. **Abra o Arquivo HTML:**
 - Navegue até o diretório onde o projeto foi clonado.
